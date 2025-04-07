@@ -1,0 +1,156 @@
+[
+  {
+    "id": "MSFT001",
+    "name": "Microsoft",
+    "industry": "Software and Technology",
+    "headquarters": "Redmond, WA",
+    "description": "Avg salary ₹100L, 40-50 hrs/week, remote options, great work culture, career growth opportunities."
+  },
+  {
+    "id": "GOOG001",
+    "name": "Google",
+    "industry": "Software and Technology",
+    "headquarters": "Mountain View, CA",
+    "description": "Avg salary ₹108L, flexible hours, free meals, excellent benefits, innovative projects."
+  },
+  {
+    "id": "AMZN001",
+    "name": "Amazon",
+    "industry": "E-commerce & Cloud Computing",
+    "headquarters": "Seattle, WA",
+    "description": "Avg salary ₹96L, 45+ hrs/week, stock options, dynamic environment, career advancement."
+  },
+  {
+    "id": "META001",
+    "name": "Meta (Facebook)",
+    "industry": "Social Media",
+    "headquarters": "Menlo Park, CA",
+    "description": "Avg salary ₹117L, flexible work, bonuses, cutting-edge AI and VR projects."
+  },
+  {
+    "id": "AAPL001",
+    "name": "Apple",
+    "industry": "Consumer Electronics",
+    "headquarters": "Cupertino, CA",
+    "description": "Avg salary ₹105L, 40-45 hrs/week, product discounts, creative work culture."
+  },
+  {
+    "id": "IBM001",
+    "name": "IBM",
+    "industry": "IT Services",
+    "headquarters": "Armonk, NY",
+    "description": "Avg salary ₹75-100L, 40 hrs/week, remote options, strong learning programs."
+  },
+  {
+    "id": "ORCL001",
+    "name": "Oracle",
+    "industry": "Software and Technology",
+    "headquarters": "Austin, TX",
+    "description": "Avg salary ₹92L, hybrid work, health benefits, enterprise software focus."
+  },
+  {
+    "id": "AVGO001",
+    "name": "Broadcom",
+    "industry": "Semiconductors & Infrastructure",
+    "headquarters": "San Jose, CA",
+    "description": "Avg salary ₹108L, standard hours, bonuses, leading chipmaker."
+  },
+  {
+    "id": "NVDA001",
+    "name": "Nvidia",
+    "industry": "Graphics & AI Technology",
+    "headquarters": "Santa Clara, CA",
+    "description": "Avg salary ₹113L, 40-45 hrs/week, stock options, AI and gaming innovations."
+  },
+  {
+    "id": "INTC001",
+    "name": "Intel",
+    "industry": "Semiconductors",
+    "headquarters": "Santa Clara, CA",
+    "description": "Avg salary ₹100L, 40 hrs/week, career growth, cutting-edge research."
+  },
+  {
+    "id": "CSCO001",
+    "name": "Cisco",
+    "industry": "Networking Equipment",
+    "headquarters": "San Jose, CA",
+    "description": "Avg salary ₹92L, remote work, healthcare, cloud networking advancements."
+  },
+  {
+    "id": "CRM001",
+    "name": "Salesforce",
+    "industry": "Cloud Computing & CRM",
+    "headquarters": "San Francisco, CA",
+    "description": "Avg salary ₹105L, 40 hrs/week, stock grants, top CRM solutions provider."
+  },
+  {
+    "id": "ADBE001",
+    "name": "Adobe",
+    "industry": "Software Development",
+    "headquarters": "San Jose, CA",
+    "description": "Avg salary ₹100L, hybrid work, wellness programs, creative software solutions."
+  },
+  {
+    "id": "HPQ001",
+    "name": "HP Inc.",
+    "industry": "Computer Hardware",
+    "headquarters": "Palo Alto, CA",
+    "description": "Avg salary ₹75-92L, flexible hours, wellness benefits, PC and printer innovations."
+  },
+  {
+    "id": "OLA001",
+    "name": "Ola",
+    "industry": "Automobile",
+    "headquarters": "Bangalore, India",
+    "description": "Avg salary ₹8-12 LPA, 40-45 hrs/week, travel perks, ride-hailing industry leader."
+  },
+  {
+    "id": "BMW001",
+    "name": "BMW",
+    "industry": "Automobile",
+    "headquarters": "Munich, Germany",
+    "description": "Avg salary ₹55L, 40 hrs/week, company cars, premium vehicle manufacturer."
+  },
+  {
+    "id": "RACE001",
+    "name": "Ferrari",
+    "industry": "Automobile",
+    "headquarters": "Maranello, Italy",
+    "description": "Avg salary ₹64L, high-performance work culture, luxury sports car brand."
+  },
+  {
+    "id": "RR001",
+    "name": "Rolls-Royce",
+    "industry": "Automobile",
+    "headquarters": "Goodwood, UK",
+    "description": "Avg salary ₹50L, innovation-focused, great benefits, bespoke car manufacturing."
+  },
+  {
+    "id": "PAH3",
+    "name": "Porsche",
+    "industry": "Automobile",
+    "headquarters": "Stuttgart, Germany",
+    "description": "Avg salary ₹58L, flexible work, bonuses, renowned for high-performance cars."
+  },
+  {
+    "id": "TSLA001",
+    "name": "Tesla",
+    "industry": "Automobile",
+    "headquarters": "Palo Alto, CA",
+    "description": "Avg salary ₹96L, high-paced, career growth, electric vehicle revolution."
+  },
+  {
+    "id": "BUG001",
+    "name": "Bugatti",
+    "industry": "Automobile",
+    "headquarters": "Molsheim, France",
+    "description": "Avg salary ₹65L, innovative work environment, ultra-luxury sports cars."
+  },
+  {
+    "id": "AS001",
+    "name": "Amrik Sukhdev",
+    "industry": "Food",
+    "headquarters": "Murthal, India",
+    "description": "Avg salary ₹5-8 LPA, varied work hours, meal benefits, famous highway dhaba."
+  }
+]
