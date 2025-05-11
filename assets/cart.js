@@ -3,6 +3,10 @@ document.addEventListener("DOMContentLoaded", async () => {
         await loadCart();
         await updateCartCount();
     }
+    const clearCartBtn = document.getElementById("clear-cart");
+    if (clearCartBtn) {
+        clearCartBtn.addEventListener("click", clearCart);
+    }
 });
 
 async function checkAuth() {
